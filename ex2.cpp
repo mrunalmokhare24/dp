@@ -1,5 +1,4 @@
-//https://www.naukri.com/code360/problems/minimal-cost_8180930?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
-
+https://www.naukri.com/code360/problems/minimal-cost_8180930
 ----------
 Problem statement
 There is an array of heights corresponding to 'n' stones. You have to reach from stone 1 to stone ‘n’.
